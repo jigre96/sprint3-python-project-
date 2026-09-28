@@ -56,4 +56,4 @@ def get_summary(game):
     return f"{game[NAME]} ({game[YEAR]}) - {game[GENRE]} - ${game[GLOBAL_SALES]}M"
 
 for game in video_game_sales:
-    print(get_summary(game)) # write your code here
+    print(get_summary(game)) 
