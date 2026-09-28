@@ -50,4 +50,4 @@ print(f"Average global sales: {avg_global_sales}")
 top_game_sales = video_game_sales[0][GLOBAL_SALES]
 
 top_game_share = (top_game_sales / total_global_sales) * 100
-print(f"Wii Sports share of total global sales: {top_game_share}%") # write your code here
+print(f"Wii Sports share of total global sales: {top_game_share}%") 
