@@ -1,0 +1,132 @@
+Tech Mock — Business/Data Analytics
+Sep 30, 2026, 05:29 AM CDT · 06:29 AM ET
+
+--- TRANSCRIPT ---
+
+[05:17 AM CDT · 06:17 AM ET] AI Interviewer: Hi! I'm your AI interviewer for the Tech Mock — Business/Data Analytics. This is a required interview for your career curriculum, and I'll ask you a set of questions one at a time. Take your time. Are you ready to begin?
+
+[05:17 AM CDT · 06:17 AM ET] You: Yes, I'm ready.
+
+[05:17 AM CDT · 06:17 AM ET] AI Interviewer: Great. Let's get started.
+
+Given a table of sales data with columns 'SaleID', 'ProductID', 'Region', and 'SaleAmount', how would you write a SQL query to find the top five products by total sales amount in each region?
+
+[05:18 AM CDT · 06:18 AM ET] You: ...
+
+[05:18 AM CDT · 06:18 AM ET] AI Interviewer: Take your time. Would you like me to repeat the question?
+
+[05:18 AM CDT · 06:18 AM ET] You: I wait, I'm reading the question.
+
+[05:18 AM CDT · 06:18 AM ET] AI Interviewer: Of course, take all the time you need!
+
+[05:18 AM CDT · 06:18 AM ET] You: ...
+
+[05:18 AM CDT · 06:18 AM ET] AI Interviewer: Are you still there? Whenever you're ready, go ahead and share your answer.
+
+[05:18 AM CDT · 06:18 AM ET] You: Yes, I'm still there.
+
+[05:18 AM CDT · 06:18 AM ET] AI Interviewer: No rush at all, take your time whenever you're ready to answer.
+
+[05:18 AM CDT · 06:18 AM ET] You: ...
+
+[05:18 AM CDT · 06:18 AM ET] AI Interviewer: Just checking in — are you still there? Feel free to start whenever you're ready, or let me know if you'd like me to repeat the question.
+
+[05:19 AM CDT · 06:19 AM ET] You: ...
+
+[05:19 AM CDT · 06:19 AM ET] AI Interviewer: I'm still here whenever you're ready. Would you like me to repeat the question, or do you need a moment?
+
+[05:19 AM CDT · 06:19 AM ET] You: Yes, repeat the question.
+
+[05:19 AM CDT · 06:19 AM ET] AI Interviewer: Of course. Given a table of sales data with columns 'SaleID', 'ProductID', 'Region', and 'SaleAmount', how would you write a SQL query to find the top five products by total sales amount in each region?
+
+[05:19 AM CDT · 06:19 AM ET] You: I would use the, uh, column in the 'SaleAmount'.
+
+[05:19 AM CDT · 06:19 AM ET] AI Interviewer: Thank you. Can you walk me through the specific SQL you would write to get there — for example, which clauses or functions you would use to group the data and rank the products within each region?
+
+[05:20 AM CDT · 06:20 AM ET] You: I would say select among... select the, uh, product ID and region and then sell amount. Then I will, uh, find the top 10 sell amount.
+
+[05:20 AM CDT · 06:20 AM ET] AI Interviewer: Got it. Can you tell me which SQL function or technique you would use to rank the products within each region specifically, so that you're getting the top five per region rather than the top five overall?
+
+[05:20 AM CDT · 06:20 AM ET] You: ...
+
+[05:20 AM CDT · 06:20 AM ET] AI Interviewer: Take your time. If you need a moment to think, that's completely fine.
+
+[05:20 AM CDT · 06:20 AM ET] You: Let's go next question.
+
+[05:20 AM CDT · 06:20 AM ET] AI Interviewer: Okay. Imagine you've just completed a significant data analysis project. How would you go about presenting your findings and recommendations to a senior leadership team who has limited time and a high-level focus?
+
+[05:21 AM CDT · 06:21 AM ET] You: I would, uh, prepare, uh, a visual dashboard, and then I will come up with my, uh, recommendations, and then I will present as a presentation, uh, showing them the f- data visualization that I've built.
+
+[05:21 AM CDT · 06:21 AM ET] AI Interviewer: Thank you. You mentioned building a data visualization — can you walk me through a specific time you presented findings to a senior or non-technical audience, and what you did to make sure the key message landed?
+
+[05:21 AM CDT · 06:21 AM ET] You: Yes. I have worked with, uh, multiple, uh, data, and then I've built it in a dashboard. Uh, through that dashboard that I have built using Tableau, uh, and Power BI sometimes, I come up with findings, and I show them, uh, through that findings, a recommendation.
+
+[05:21 AM CDT · 06:21 AM ET] AI Interviewer: I see. Can you tell me about one specific presentation you gave — what the project was about, who was in the room, and how they responded to what you showed them?
+
+[05:22 AM CDT · 06:22 AM ET] You: Yes. I was working on a data... on a restaurant performance, and then I come up with the top 10, uh, cities, and then I come up with top 10 cuisines, and I showed them through, uh, the dashboard that I have built.
+
+[05:22 AM CDT · 06:22 AM ET] AI Interviewer: Thank you. Who was the audience for that presentation, and what happened as a result of your recommendations?
+
+[05:22 AM CDT · 06:22 AM ET] You: There was a lot of students there. W- also, there were, uh, expertise in the room or a, in the, in the...
+
+[05:22 AM CDT · 06:22 AM ET] AI Interviewer: Take your time, no rush.
+
+[05:22 AM CDT · 06:22 AM ET] You: There was students and experts in there, and then I showed them, and that's how I share my recommendations and my findings.
+
+[05:22 AM CDT · 06:22 AM ET] AI Interviewer: Got it. Alright, shifting gears a little — when designing a dashboard for business users, what are some key principles you consider to ensure it's both informative and user-friendly? Please share at least three examples.
+
+[05:23 AM CDT · 06:23 AM ET] You: ...
+
+[05:23 AM CDT · 06:23 AM ET] AI Interviewer: Take your time whenever you're ready.
+
+[05:24 AM CDT · 06:24 AM ET] You: I will prepare, uh, the dashboard first by, uh, uh, by connecting two datas, and then I will prepare, uh, I will give them a filters that will make, uh, choose the specific findings that they might like to see. And the key findings or making easy or, or making the dashboard friendly use, I will create a filter that will give them, uh, choose whatever key findings or, or, or areas that they might look. And I will... And I prepare my dashboard visualization, making very clear by building, uh, segments like monthly revenue, uh, also by building, uh, top 10 cities, and also building by top 10 casinos. And that will just be or make it friendly use. And specifically adding the filters will make it friendly use.
+
+[05:24 AM CDT · 06:24 AM ET] AI Interviewer: Thank you. You mentioned filters as one principle. Can you share two other key design principles you consider beyond filters — for example, around layout, color, or the choice of chart types?
+
+[05:25 AM CDT · 06:25 AM ET] You: Yes. Uh, every segments that you are working on, they do have, uh, charts, specific charts that you might use. Like, let's say if I'm using a monthly, uh, revenue, I might use, uh, line chart. And if I'm using, uh, top 10 cities and top 10 cuisines, I might, I might use, uh, chart bar. And then by, by choosing specific charts, it will make your dashboard, or the dashboard that you're building,a friendly user.
+
+[05:25 AM CDT · 06:25 AM ET] AI Interviewer: Got it. Let's turn to the next topic. Describe the concept of a star schema in data modeling. What are its main components, and what are the benefits of using it for analytical reporting?
+
+[05:25 AM CDT · 06:25 AM ET] You: ...
+
+[05:25 AM CDT · 06:25 AM ET] AI Interviewer: Take your time, and let me know if you'd like me to repeat the question.
+
+[05:25 AM CDT · 06:25 AM ET] You: Uh, next question, please.
+
+[05:25 AM CDT · 06:25 AM ET] AI Interviewer: Of course. You have a spreadsheet with customer order data, including customer IDs and product IDs. You also have a separate sheet with product details — product ID, product name, and price. Describe how you would use a common spreadsheet function to bring the product names and prices into your customer order data sheet.
+
+[05:26 AM CDT · 06:26 AM ET] You: ...
+
+[05:26 AM CDT · 06:26 AM ET] AI Interviewer: Take your time whenever you're ready.
+
+[05:26 AM CDT · 06:26 AM ET] You: Next question, please.
+
+[05:26 AM CDT · 06:26 AM ET] AI Interviewer: Sure. Explain the difference between an INNER JOIN and a LEFT JOIN in SQL. Provide a simple scenario where you would choose one over the other.
+
+[05:26 AM CDT · 06:26 AM ET] You: Next question.
+
+[05:26 AM CDT · 06:26 AM ET] AI Interviewer: Of course. Tell me about a time you had to deliver bad news or explain a complex technical issue to a non-technical stakeholder. How did you approach that conversation?
+
+[05:27 AM CDT · 06:27 AM ET] You: ...
+
+[05:27 AM CDT · 06:27 AM ET] AI Interviewer: Take your time, and let me know if you'd like me to repeat the question.
+
+[05:27 AM CDT · 06:27 AM ET] You: Explaining to technical issue with, uh, non-technical stakeholders, uh, might look, uh, pretty challenging, uh, because of, uh, the unfamiliarity they have with technical issue. But I will explain to them and, and, and in, in a manner that will make them understand what I'm talking about.
+
+[05:27 AM CDT · 06:27 AM ET] AI Interviewer: Thank you. Can you walk me through a specific time that happened — who the person was, what the technical issue was, and how you explained it to them?
+
+[05:27 AM CDT · 06:27 AM ET] You: Next.
+
+[05:27 AM CDT · 06:27 AM ET] AI Interviewer: Okay. You have a table named 'Orders' with columns 'OrderID', 'CustomerID', 'OrderDate', and 'TotalAmount'. Write a SQL query to find the total revenue generated by each customer for orders placed in the last month.
+
+[05:28 AM CDT · 06:28 AM ET] You: Next.
+
+[05:28 AM CDT · 06:28 AM ET] AI Interviewer: Alright. You have a table named 'Employees' with columns 'EmployeeID', 'Name', 'DepartmentID', and 'Salary'. You want to categorize employees into 'High Salary' for salaries above seventy thousand dollars, 'Medium Salary' for salaries between forty thousand and seventy thousand dollars, and 'Low Salary' for salaries at or below forty thousand dollars. How would you achieve this using a SQL CASE statement?
+
+[05:28 AM CDT · 06:28 AM ET] You: Next.
+
+[05:28 AM CDT · 06:28 AM ET] AI Interviewer: Sure. You need to visualize the trend of website traffic over the past year, broken down by acquisition channel — for example, organic, paid, and direct. What type of visualization would you choose, and why?
+
+[05:28 AM CDT · 06:28 AM ET] You: Next.
+
+[05:28 AM CDT · 06:28 AM ET] AI Interviewer: That was actually the last question in our interview. Thank you for your time today. This interview is now complete and your responses will be scored. I wish you all the best!
